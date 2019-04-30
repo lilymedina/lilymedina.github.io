@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Lily Medina"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "I’m a pre-doctoral research fellow at the Institutions and Political Inequalities unit at WZB with an M.S. in Statistics from Humboldt University. Currently, my main research interest is examining the possible (causal) links between mental health and economic outcomes. My work includes evaluating community-driven development initiatives and their effect on citizen attitudes toward authority as well as R-packages for experimental designs."
-url                      : https://medinali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "medinali/medinali.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lily Medina"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Fellow researcher"
-  location         : "Berlin"
-  employer         :  "https://www.wzb.eu/en/persons/lily-medina
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "medinali"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -107,6 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
