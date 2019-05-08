@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Tools"
-    url: /tools/
+  - title: "Software"
+    url: /software/
     
   - title: "CV"
     url: /files/cv.pdf
