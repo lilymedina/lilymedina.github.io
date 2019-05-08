@@ -79,8 +79,6 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lily"
-  avatar           : "profile.png"
   employer         : "WZB"
   bio              : "Research fellow"
   location         : "Berlin"
