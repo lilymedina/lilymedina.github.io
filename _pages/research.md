@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-Citizen Attitudes Toward Traditional and State Authorities: Substitutes or Complements? [<img src="/files/doc-24.png">](https://doi.org/10.1177/0010414018806529)   [<img src="/files/code-24.png">](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)
+Citizen Attitudes Toward Traditional and State Authorities: Substitutes or Complements? [<img src="/files/doc-24.png" title = "Manuscript">](https://doi.org/10.1177/0010414018806529)   [<img src="/files/code-24.png" title = "Replication code">](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)
 ======
 
 _With Peter van der Windt, Macartan Humphreys, Jeffrey Timmons, and Marteen Voors._
