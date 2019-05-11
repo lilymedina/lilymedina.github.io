@@ -16,7 +16,7 @@ Do citizens view state and traditional authorities as substitutes or complements
 
  [<img src="/files/doc-24.png" title = "Manuscript">](https://doi.org/10.1177/0010414018806529) [Published Paper](https://doi.org/10.1177/0010414018806529)
  
- [<img src="/files/code-24.png" title = "Replication code">](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)[Replication Code](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)
+ [<img src="/files/code-24.png" title = "Replication code">](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)[ Replication Code](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)
 
 The Mindful Path to Integration? Experimental Evidence from Refugee Women in Berlin 
 ======
