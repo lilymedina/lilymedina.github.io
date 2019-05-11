@@ -18,7 +18,8 @@ Do citizens view state and traditional authorities as substitutes or complements
 
 ![](files/code-24.png?raw=true)[ Replication Code](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)
 
-
+<input type="image" id="image" alt="Replication Code"
+       src="files/code-24.png">[ Replication Code](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)
 
 
 The Mindful Path to Integration? Experimental Evidence from Refugee Women in Berlin 
