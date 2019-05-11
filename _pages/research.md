@@ -7,17 +7,17 @@ author_profile: true
 
 
 
-Citizen Attitudes Toward Traditional and State Authorities: Substitutes or Complements?
+Citizen Attitudes Toward Traditional and State Authorities: Substitutes or Complements? 
 ======
 
 _With Peter van der Windt, Macartan Humphreys, Jeffrey Timmons, and Marteen Voors._
 
-[<md-icon md-svg-src = '<files/document.svg'></md-icon>](https://doi.org/10.1177/0010414018806529)
-
-<md-icon md-svg-src = '<files/code.svg'></md-icon>[](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)
-![https://doi.org/10.1177/0010414018806529](files/code-64.png?raw=true "Published Article")
-
 Do citizens view state and traditional authorities as substitutes or complements? Past work has been divided on this question. Some scholars point to competition between attitudes toward these entities, suggesting substitution, whereas others highlight positive correlations, suggesting complementarity. Addressing this question, however, is difficult, as it requires assessing the effects of exogenous changes in the latent valuation of one authority on an individual’s support for another. We show that this quantity—a type of elasticity—cannot be inferred from correlations between support for the two forms of authority. We employ a structural model to estimate this elasticity of substitution using data from 816 villages in the Democratic Republic of Congo and plausibly exogenous rainfall and conflict shocks. Despite prima facie evidence for substitution logics, our model’s outcomes are consistent with complementarity; positive changes in citizen valuation of the chief appear to translate into positive changes in support for the government. 
+
+![](files/doc-24.png?raw=true)[Published Article](https://doi.org/10.1177/0010414018806529)   
+
+![](files/code-24.png?raw=true)[ Replication Code](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)
+
 
 
 
