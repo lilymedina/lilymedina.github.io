@@ -1,7 +1,7 @@
 ---
 title: "Citizen Attitudes Toward Traditional and State Authorities: Substitutes or Complements?"
-collection: research
-permalink: /research/2018-vdw-h-m-t-v-1/
+collection: publications
+permalink: /publications/2018-vdw-h-m-t-v-1/
 excerpt: 'Do citizens view state and traditional authorities as substitutes or complements?'
 date: 2018-11-26
 venue: 'Comparative Political Studies'
