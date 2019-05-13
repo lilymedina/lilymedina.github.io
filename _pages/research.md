@@ -33,6 +33,6 @@ A Guideline of Transformations in Linear and Linear Mixed Regression Models
 
 _with Natalia Rojas-Perilla and Ann-Kristin Kreutzmann_
 
-Linear and linear mixed models typically rely on the fulfillment of a set of conditions which are not always met by empirical data. Transformations attempt to correct violations of the assumptions underlying these models. In particular, non-normality, heteroscedasticity and non-linearity. In this work, we do an extensive overview of the current state of the literature, propose a guideline for the use of transformations and put our guideline to test with data from the National Household Income and Expenditure Survey. 
+Linear and linear mixed models typically rely on the fulfillment of a set of conditions which are not always met by empirical data. Transformations attempt to correct violations of the assumptions underlying these models. In particular, non-normality, heteroscedasticity and non-linearity. In this work, we do an extensive overview of the current state of the literature, propose a guideline for the use of transformations and put our guideline to test with data from the National Household Income and Expenditure Survey (Mexico). 
 
 _Ongoing reserach_
