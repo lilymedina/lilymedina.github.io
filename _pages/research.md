@@ -23,7 +23,11 @@ The Mindful Path to Integration? Experimental Evidence from Refugee Women in Ber
 
 _with Clara Bicalho, Julia Roseman and Alexandra Scacco_
 
-To what extent better (poorer) mental health of refugees women can facilitate (hinder) their integration into their host society and how their mental health condition interacts wih other dimensions of their lives. (Ongoing research)
+To what extent better (poorer) mental health of refugees women can facilitate (hinder) their social integration into their host society. 
+
+Our study will examine the effects of mental and physical health initiatives on the well‐being and social integration of refugee women in Berlin.  
+
+Ongoing research
 
 
 A Guideline of Transformations in Linear and Linear Mixed Regression Models
@@ -31,4 +35,6 @@ A Guideline of Transformations in Linear and Linear Mixed Regression Models
 
 _with Natalia Rojas-Perilla and Ann-Kristin Kreutzmann_
 
-Linear and linear mixed models typically rely on the fulfillment of a set of conditions which are not always met by empirical data. Transformations attempt to correct violations of the assumptions underlying these models. In particular, non-normality, heteroscedasticity and non-linearity. In this work, we do an extensive overview the current state of the literature, propose a guideline for the use of transformations and put our guideline to test with data from the National Household Income and Expenditure Survey. (Ongoing reserach)
+Linear and linear mixed models typically rely on the fulfillment of a set of conditions which are not always met by empirical data. Transformations attempt to correct violations of the assumptions underlying these models. In particular, non-normality, heteroscedasticity and non-linearity. In this work, we do an extensive overview the current state of the literature, propose a guideline for the use of transformations and put our guideline to test with data from the National Household Income and Expenditure Survey. 
+
+Ongoing reserach
