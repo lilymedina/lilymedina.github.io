@@ -23,9 +23,7 @@ The Mindful Path to Integration? Experimental Evidence from Refugee Women in Ber
 
 _with Clara Bicalho, Julia Roseman and Alexandra Scacco_
 
-To what extent better (poorer) mental health of refugees women can facilitate (hinder) their social integration into their host society. 
-
-Our study will examine the effects of mental and physical health initiatives on the well‐being and social integration of refugee women in Berlin.  
+To what extent better (poorer) mental health of refugees women can facilitate (hinder) their social integration into their host society. Most research has focused on language acquisition and job-training with an eye toward economic integration. Our study will examine the effects of mental and physical health initiatives on the well‐being and social integration of refugee women in Berlin.  
 
 _Ongoing research_
 
