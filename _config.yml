@@ -1,4 +1,4 @@
-﻿# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Lily Medina"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Lily Medina"
 description              : &description "I’m a pre-doctoral research fellow at the Institutions and Political Inequalities unit at WZB with an M.S. in Statistics from Humboldt University. Currently, my main research interest is examining the possible (causal) links between mental health and economic outcomes. My work includes evaluating community-driven development initiatives and their effect on citizen attitudes toward authority as well as R-packages for experimental designs. "
-url                      : https://medinali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lilymedina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "medinali/medinali.github.io"
+repository               : "lilymedina/lilymedina.github.io"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "medinali"
+  github           : "lilymedina"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,7 +105,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "lilymiru"
   vine             :
   weibo            :
   xing             :

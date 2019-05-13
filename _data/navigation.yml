@@ -1,7 +1,12 @@
 # main links links
 main:
-  - title: "Tools"
+  - title: "Research"
+    url: /research/
+    
+  - title: "Statistical Tools"
     url: /tools/
     
   - title: "CV"
     url: /files/cv.pdf
+    
+  
