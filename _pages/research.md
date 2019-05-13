@@ -27,7 +27,7 @@ To what extent better (poorer) mental health of refugees women can facilitate (h
 
 Our study will examine the effects of mental and physical health initiatives on the well‐being and social integration of refugee women in Berlin.  
 
-Ongoing research
+_Ongoing research_
 
 
 A Guideline of Transformations in Linear and Linear Mixed Regression Models
@@ -37,4 +37,4 @@ _with Natalia Rojas-Perilla and Ann-Kristin Kreutzmann_
 
 Linear and linear mixed models typically rely on the fulfillment of a set of conditions which are not always met by empirical data. Transformations attempt to correct violations of the assumptions underlying these models. In particular, non-normality, heteroscedasticity and non-linearity. In this work, we do an extensive overview of the current state of the literature, propose a guideline for the use of transformations and put our guideline to test with data from the National Household Income and Expenditure Survey. 
 
-Ongoing reserach
+_Ongoing reserach_
