@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Lily"
   avatar           : "prof.jpg"
-  employer         : "WZB"
-  bio              : "Research fellow"
-  location         : "Berlin"
+  employer         : "UC Berkeley"
+  bio              : "Incoming PhD Student"
+  location         : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
