@@ -6,6 +6,13 @@ author_profile: true
 {% include base_path %}
 
 
+With or Without the State: The Effects of State-Sanctioned Militias on Civilian Victimization (Dissertation Chapter)
+======
+This chapter examines how the legalization of militias shapes levels of violence against civilians during civil conflict. Drawing on original data from Colombia’s Convivir program—a state initiative that authorized civilian groups to support counterinsurgency efforts—I investigate whether legal recognition affects how militias behave and how civilians experience violence. I argue that legalization alters wartime dynamics through three implicit mechanisms: it makes militias more legible to the state, enables greater regulation of their actions, and signals legitimacy to civilians, especially local elites. These mechanisms generate testable expectations about the relationship between legalization and levels of civilian victimization, elite participation, and insurgent violence. Using municipal-level data on violence and militia presence, I provide  estimates of the effects of legalization using the Sun and Abraham (2021) estimator. Findings suggest that legalization may reduce guerrilla violence.
+
+_Ongoing research_
+
+
 Making, Updating, and Querying Causal Models with `CausalQueries`
 ======
 
@@ -30,13 +37,6 @@ Do citizens view state and traditional authorities as substitutes or complements
  
 
 
-
-
-With or Without the State: The Effects of State-Sanctioned Militias on Civilian Victimization (Dissertation Chapter)
-======
-This chapter examines how the legalization of militias shapes levels of violence against civilians during civil conflict. Drawing on original data from Colombia’s Convivir program—a state initiative that authorized civilian groups to support counterinsurgency efforts—I investigate whether legal recognition affects how militias behave and how civilians experience violence. I argue that legalization alters wartime dynamics through three implicit mechanisms: it makes militias more legible to the state, enables greater regulation of their actions, and signals legitimacy to civilians, especially local elites. These mechanisms generate testable expectations about the relationship between legalization and levels of civilian victimization, elite participation, and insurgent violence. Using municipal-level data on violence and militia presence, I provide  estimates of the effects of legalization using the Sun and Abraham (2021) estimator. Findings suggest that legalization may reduce guerrilla violence.
-
-_Ongoing research_
 
 Marching for Change: Quantifying the Effects of Women's Rights Protests on Legislation and Femicide in Latin America 
 ======
