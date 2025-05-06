@@ -5,6 +5,15 @@ author_profile: true
 ---
 {% include base_path %}
 
+Making, Updating, and Querying Causal Models with `CausalQueries`
+======
+
+_with Till Tietz, Georgiy Syunyaev, and Macartan Humphreys_
+
+The [R]{.proglang} package `CausalQueries`  can be used to make, update, and query causal models defined on binary nodes. Users provide a causal statement of the form `X -> M <- Y; M <-> Y` which is interpreted as a structural causal model over a collection of binary nodes.  Then `CausalQueries` allows users to (1) identify the set of principal strata---causal types---required to characterize all possible causal relations between nodes that are consistent with the causal statement (2) determine a set of parameters needed to characterize distributions over these causal types (3) update beliefs over distributions of causal types, using a `stan` model plus data, and (4) pose a wide range of causal queries of the model, using either the prior distribution, the posterior distribution, or a user-specified candidate vector of parameters.  
+
+_Submitted to Journal of Statistical Software_
+
 ## Published & Under Review
 
 Citizen Attitudes Toward Traditional and State Authorities: Substitutes or Complements?
@@ -19,14 +28,7 @@ Do citizens view state and traditional authorities as substitutes or complements
  [<img src="/files/code-24.png" title = "Replication code">](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)[ _Replication Code_](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)
  
 
-Making, Updating, and Querying Causal Models with `CausalQueries`
-======
 
-_with Till Tietz, Georgiy Syunyaev, and Macartan Humphreys_
-
-The [R]{.proglang} package `CausalQueries`  can be used to make, update, and query causal models defined on binary nodes. Users provide a causal statement of the form `X -> M <- Y; M <-> Y` which is interpreted as a structural causal model over a collection of binary nodes.  Then `CausalQueries` allows users to (1) identify the set of principal strata---causal types---required to characterize all possible causal relations between nodes that are consistent with the causal statement (2) determine a set of parameters needed to characterize distributions over these causal types (3) update beliefs over distributions of causal types, using a `stan` model plus data, and (4) pose a wide range of causal queries of the model, using either the prior distribution, the posterior distribution, or a user-specified candidate vector of parameters.  
-
-_Submitted to Journal of Statistical Software_
 
 
 
