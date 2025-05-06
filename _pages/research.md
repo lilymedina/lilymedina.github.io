@@ -5,7 +5,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-# Published & Under Review
 
 Making, Updating, and Querying Causal Models with `CausalQueries`
 ======
@@ -33,14 +32,11 @@ Do citizens view state and traditional authorities as substitutes or complements
 
 
 
-
-# Ongoing Projects
-
-
 With or Without the State: The Effects of State-Sanctioned Militias on Civilian Victimization (Dissertation Chapter)
 ======
 This chapter examines how the legalization of militias shapes levels of violence against civilians during civil conflict. Drawing on original data from Colombia’s Convivir program—a state initiative that authorized civilian groups to support counterinsurgency efforts—I investigate whether legal recognition affects how militias behave and how civilians experience violence. I argue that legalization alters wartime dynamics through three implicit mechanisms: it makes militias more legible to the state, enables greater regulation of their actions, and signals legitimacy to civilians, especially local elites. These mechanisms generate testable expectations about the relationship between legalization and levels of civilian victimization, elite participation, and insurgent violence. Using municipal-level data on violence and militia presence, I provide  estimates of the effects of legalization using the Sun and Abraham (2021) estimator. Findings suggest that legalization may reduce guerrilla violence.
 
+_Ongoing research_
 
 Marching for Change: Quantifying the Effects of Women's Rights Protests on Legislation and Femicide in Latin America 
 ======
@@ -49,4 +45,4 @@ _with Johanna Reyes_
 
 Do protests against violence toward women help reduce it, or do they exacerbate it? Over the past 20 years, mass demonstrations with feminist causes have dramatically increased across the region. These movements have advocated for critical legislative changes, including the legalization of abortion and the recognition of femicide as a distinct criminal offense. But how effective are these protests? We analyze their impact both on legislation and on (actual) violence against women. Using an instrumental variable, we provide the first cross-country evaluation of the effects of protest agenda-seeding on femicide and whether these protests directly influence legislation criminalizing violence against women. This research contributes to the growing body of literature on gendered social movements and policy change, offering insights into how grassroots activism can influence both legal frameworks and societal behavior.
 
-
+_Ongoing research_
