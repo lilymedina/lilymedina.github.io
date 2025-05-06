@@ -6,7 +6,6 @@ author_profile: true
 {% include base_path %}
 
 
-
 Citizen Attitudes Toward Traditional and State Authorities: Substitutes or Complements?
 ======
 
@@ -18,21 +17,27 @@ Do citizens view state and traditional authorities as substitutes or complements
  
  [<img src="/files/code-24.png" title = "Replication code">](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)[ _Replication Code_](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)
  
-The Mindful Path to Integration? Experimental Evidence from Refugee Women in Berlin 
+
+Making, Updating, and Querying Causal Models with `CausalQueries`
 ======
 
-_with Clara Bicalho, Julia Roseman and Alexandra Scacco_
+_with Till Tietz, Georgiy Syunyaev, and Macartan Humphreys_
 
-To what extent better (poorer) mental health of refugees women can facilitate (hinder) their social integration into their host society. Most research has focused on language acquisition and job-training with an eye toward economic integration. Our study will examine the effects of mental and physical health initiatives on the well‐being and social integration of refugee women in Berlin.  
+The [R]{.proglang} package `CausalQueries`  can be used to make, update, and query causal models defined on binary nodes. Users provide a causal statement of the form `X -> M <- Y; M <-> Y` which is interpreted as a structural causal model over a collection of binary nodes.  Then `CausalQueries` allows users to (1) identify the set of principal strata---causal types---required to characterize all possible causal relations between nodes that are consistent with the causal statement (2) determine a set of parameters needed to characterize distributions over these causal types (3) update beliefs over distributions of causal types, using a `stan` model plus data, and (4) pose a wide range of causal queries of the model, using either the prior distribution, the posterior distribution, or a user-specified candidate vector of parameters.  
 
-_Ongoing research_
+_Submitted to Journal of Statistical Software_
 
 
-A Guideline of Transformations in Linear and Linear Mixed Regression Models
+
+# Ongoing Projects
+
+
+With or Without the State: The Effects of State-Sanctioned Militias on Civilian Victimization (Dissertation Chapter)
 ======
+This chapter examines how the legalization of militias shapes levels of violence against civilians during civil conflict. Drawing on original data from Colombia’s Convivir program—a state initiative that authorized civilian groups to support counterinsurgency efforts—I investigate whether legal recognition affects how militias behave and how civilians experience violence. I argue that legalization alters wartime dynamics through three implicit mechanisms: it makes militias more legible to the state, enables greater regulation of their actions, and signals legitimacy to civilians, especially local elites. These mechanisms generate testable expectations about the relationship between legalization and levels of civilian victimization, elite participation, and insurgent violence. Using municipal-level data on violence and militia presence, I provide  estimates of the effects of legalization using the Sun and Abraham (2021) estimator. Findings suggest that legalization may reduce guerrilla violence.
 
-_with Natalia Rojas-Perilla and Ann-Kristin Kreutzmann_
 
-Linear and linear mixed models typically rely on the fulfillment of a set of conditions which are not always met by empirical data. Transformations attempt to correct violations of the assumptions underlying these models. In particular, non-normality, heteroscedasticity and non-linearity. In this work, we do an extensive overview of the current state of the literature, propose a guideline for the use of transformations and put our guideline to test with data from the National Household Income and Expenditure Survey (Mexico). 
+Marching for Change: Quantifying the Effects of Women's Rights Protests on Legislation and Femicide in Latin America 
+======
+_with Johanna Reyes_
 
-_Ongoing reserach_
