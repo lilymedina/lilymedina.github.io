@@ -5,6 +5,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+# Published & Under Review
+
 Making, Updating, and Querying Causal Models with `CausalQueries`
 ======
 
@@ -14,7 +16,7 @@ The `R` package `CausalQueries`  can be used to make, update, and query causal m
 
 _Submitted to Journal of Statistical Software_
 
-## Published & Under Review
+
 
 Citizen Attitudes Toward Traditional and State Authorities: Substitutes or Complements?
 ======
@@ -32,7 +34,7 @@ Do citizens view state and traditional authorities as substitutes or complements
 
 
 
-## Ongoing Projects
+# Ongoing Projects
 
 
 With or Without the State: The Effects of State-Sanctioned Militias on Civilian Victimization (Dissertation Chapter)
