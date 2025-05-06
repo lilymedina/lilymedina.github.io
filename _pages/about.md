@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D student in political science at U.C. Berkeley with an M.S. in Statistics from Humboldt University of Berlin.  My work includes evaluating community-driven development initiatives and their effect on citizen attitudes toward authority as well as R-packages for [experimental designs](https://declaredesign.org/library/) and [Bayesian methods for causal inference](https://github.com/macartan/CausalQueries). 
+I’m a Ph.D. candidate in Political Science at the University of California, Berkeley, and a Research Associate at the  [Center of the Politics of Development](https://cpd.berkeley.edu/)
 
-My substantive research interests include political violence, criminal governance and citizens’ attitudes towards state and non-state actors. Methodologically, I'm interested in Bayesian statistics and causal inference.
+My research examines when and why civilians form counterinsurgent militias in civil war contexts, and what happens when the state chooses to legally recognize some of these groups. I draw on a mix of archival research, interviews, and quantitative evidence from Colombia.
+
+Two interconnected themes run through my work: how civilians experience violence, and how they navigate loyalties between state and non-state actors in their search for protection and access to public goods. 
+
+Another interest of mine is developing and contributing to open-source software. I’ve worked on R packages for [experimental designs](https://declaredesign.org/library/) and [Bayesian methods for causal inference](https://github.com/macartan/CausalQueries). 
+
+
 
