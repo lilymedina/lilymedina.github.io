@@ -16,9 +16,11 @@ _Ongoing research_
  <br>
  <br>
   
-With or Without the State: The Effects of State-Sanctioned Militias on Civilian Victimization (Dissertation Chapter)
+(Class) Disparities in Policing
 ======
 This paper proposes a game-theoretic model to explain class-based disparities in police violence, emphasizing how unequal access to judicial institutions shapes citizen-police interactions and the spatial distribution of officer behavior. Unlike existing accounts of taste-based or statistical discrimination, this model highlights how structural inequalities in complaint mechanisms lead to a self-reinforcing dynamic: poor citizens, facing higher costs and lower probabilities of success when reporting police misconduct, are less likely to denounce abuse. Anticipating minimal risk of punishment, aggressive officers gravitate toward these areas, while non-aggressive officers prefer wealthier neighborhoods where complaints are more credible. The model yields clear comparative statics and multiple equilibria, showing how institutional design and officer assignment policies can either exacerbate or mitigate these disparities. The results offer a theoretical foundation for understanding how structurally embedded biases in access to justice produce class-based disparities in policing—even in the absence of prejudice by police officers.
+
+_Ongoing research_
 
  <br>
  <br>
