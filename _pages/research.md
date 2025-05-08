@@ -12,7 +12,18 @@ This chapter examines how the legalization of militias shapes levels of violence
 
 _Ongoing research_
 
+ <br>
+ <br>
+ <br>
+  
+With or Without the State: The Effects of State-Sanctioned Militias on Civilian Victimization (Dissertation Chapter)
+======
+This paper proposes a game-theoretic model to explain class-based disparities in police violence, emphasizing how unequal access to judicial institutions shapes citizen-police interactions and the spatial distribution of officer behavior. Unlike existing accounts of taste-based or statistical discrimination, this model highlights how structural inequalities in complaint mechanisms lead to a self-reinforcing dynamic: poor citizens, facing higher costs and lower probabilities of success when reporting police misconduct, are less likely to denounce abuse. Anticipating minimal risk of punishment, aggressive officers gravitate toward these areas, while non-aggressive officers prefer wealthier neighborhoods where complaints are more credible. The model yields clear comparative statics and multiple equilibria, showing how institutional design and officer assignment policies can either exacerbate or mitigate these disparities. The results offer a theoretical foundation for understanding how structurally embedded biases in access to justice produce class-based disparities in policing—even in the absence of prejudice by police officers.
 
+ <br>
+ <br>
+ <br>
+ 
 Making, Updating, and Querying Causal Models with `CausalQueries`
 ======
 
@@ -23,6 +34,9 @@ The `R` package `CausalQueries`  can be used to make, update, and query causal m
 _Submitted to Journal of Statistical Software_
 
 
+ <br>
+ <br>
+ <br>
 
 Citizen Attitudes Toward Traditional and State Authorities: Substitutes or Complements?
 ======
@@ -36,7 +50,10 @@ Do citizens view state and traditional authorities as substitutes or complements
  [<img src="/files/code-24.png" title = "Replication code">](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)[ _Replication Code_](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)
  
 
-
+ <br>
+ <br>
+ <br>
+ 
 
 Marching for Change: Quantifying the Effects of Women's Rights Protests on Legislation and Femicide in Latin America 
 ======
