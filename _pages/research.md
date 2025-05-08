@@ -50,4 +50,4 @@ Do citizens view state and traditional authorities as substitutes or complements
 </details>
 
 [📄 _Published Article_](https://doi.org/10.1177/0010414018806529)  
-[💻 _Replication Code_](http://www.macartan.nyc/methods/code/replication-vdw-h-m-t-v-2018/)
+[💻 _Replication Code_](https://github.com/lilymedina/VDW-H-M-T-V)
