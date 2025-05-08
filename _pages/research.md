@@ -4,9 +4,8 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
 
-## Ongoing Projects
+# Ongoing Projects
 
 ### With or Without the State: The Effects of State-Sanctioned Militias on Civilian Victimization _(Dissertation Chapter)_
 <details><summary>Abstract</summary>
@@ -30,7 +29,7 @@ Do protests against violence toward women help reduce it, or do they exacerbate 
 
 ---
 
-## Reviewed & In Review
+# Reviewed & In Review
 
 ### Making, Updating, and Querying Causal Models with `CausalQueries`  
 _with Till Tietz, Georgiy Syunyaev, and Macartan Humphreys_  
