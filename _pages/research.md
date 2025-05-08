@@ -2,7 +2,10 @@
 layout: archive
 permalink: /research/
 author_profile: true
-title: " "
+title: ""
+header:
+  overlay: false
+  show_title: false
 ---
 
 
