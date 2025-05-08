@@ -4,6 +4,8 @@ permalink: /research/
 author_profile: true
 ---
 
+# Research
+
 ## Ongoing Projects
 
 ### With or Without the State: The Effects of State-Sanctioned Militias on Civilian Victimization _(Dissertation Chapter)_
