@@ -30,8 +30,6 @@ Do protests against violence toward women help reduce it, or do they exacerbate 
 
 ---
 
-<br>
-
 ## Reviewed & In Review
 
 ### Making, Updating, and Querying Causal Models with `CausalQueries`  
