@@ -6,7 +6,7 @@ title: "&nbsp;"
 ---
 
 ## Dissertation:
-### Legal Militias When states sanction violence in civil war _(Dissertation Chapter)_
+### Legal Militias When states sanction violence in civil war 
 <details><summary>Abstract</summary>
 In my dissertation, I examine an understudied feature of civil wars: legal militias. These are armed groups that receive formal recognition from the state but remain separate from regular forces like the police or military. I argue that legalization encourages militia formation by lowering the costs of mobilization. This is most likely to occur in areas that combine three conditions: a high insurgent threat, which creates demand for protection; high land inequality, which gives local elites strong incentives to mobilize; and intermediate state capacity, where the state is strong enough to offer recognition but too weak to provide direct security. Once formed, legal militias reshape conflict dynamics by providing local intelligence and making the armed landscape more legible to the state.
 
