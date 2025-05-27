@@ -5,27 +5,11 @@ author_profile: true
 title: "&nbsp;"
 ---
 
-
-## Ongoing Projects
-
-### With or Without the State: The Effects of State-Sanctioned Militias on Civilian Victimization _(Dissertation Chapter)_
+## Dissertation:
+### Legal Militias When states sanction violence in civil war _(Dissertation Chapter)_
 <details><summary>Abstract</summary>
-This chapter examines how the legalization of militias shapes levels of violence against civilians during civil conflict. Drawing on original data from Colombia’s Convivir program—a state initiative that authorized civilian groups to support counterinsurgency efforts—I investigate whether legal recognition affects how militias behave and how civilians experience violence. I argue that legalization alters wartime dynamics through three implicit mechanisms: it makes militias more legible to the state, enables greater regulation of their actions, and signals legitimacy to civilians, especially local elites. These mechanisms generate testable expectations about the relationship between legalization and levels of civilian victimization, elite participation, and insurgent violence. Using municipal-level data on violence and militia presence, I provide  estimates of the effects of legalization using the Sun and Abraham (2021) estimator. Findings suggest that legalization may reduce guerrilla violence.
-</details>
+In my dissertation, I examine an understudied feature of civil wars: legal militias. These are armed groups that receive formal recognition from the state but remain separate from regular forces like the police or military. I argue that legalization encourages militia formation by lowering the costs of mobilization. This is most likely to occur in areas that combine three conditions: a high insurgent threat, which creates demand for protection; high land inequality, which gives local elites strong incentives to mobilize; and intermediate state capacity, where the state is strong enough to offer recognition but too weak to provide direct security. Once formed, legal militias reshape conflict dynamics by providing local intelligence and making the armed landscape more legible to the state.
 
----
-
-### (Class) Disparities in Policing
-<details><summary>Abstract</summary>
-This paper proposes a game-theoretic model to explain class-based disparities in police violence, emphasizing how unequal access to judicial institutions shapes citizen-police interactions and the spatial distribution of officer behavior. Unlike existing accounts of taste-based or statistical discrimination, this model highlights how structural inequalities in complaint mechanisms lead to a self-reinforcing dynamic: poor citizens, facing higher costs and lower probabilities of success when reporting police misconduct, are less likely to denounce abuse. Anticipating minimal risk of punishment, aggressive officers gravitate toward these areas, while non-aggressive officers prefer wealthier neighborhoods where complaints are more credible. The model yields clear comparative statics and multiple equilibria, showing how institutional design and officer assignment policies can either exacerbate or mitigate these disparities.
-</details>
-
----
-
-### Marching for Change: Quantifying the Effects of Women's Rights Protests on Legislation and Femicide in Latin America  
-_with Johanna Reyes_  
-<details><summary>Abstract</summary>
-Do protests against violence toward women help reduce it, or do they exacerbate it? Over the past 20 years, mass demonstrations with feminist causes have dramatically increased across the region. These movements have advocated for critical legislative changes, including the legalization of abortion and the recognition of femicide as a distinct criminal offense. But how effective are these protests? We analyze their impact both on legislation and on (actual) violence against women. Using an instrumental variable, we provide the first cross-country evaluation of the effects of protest agenda-seeding on femicide and whether these protests directly influence legislation criminalizing violence against women.
 </details>
 
 ---
@@ -49,3 +33,21 @@ Do citizens view state and traditional authorities as substitutes or complements
 
 [📄 _Published Article_](https://doi.org/10.1177/0010414018806529)  
 [💻 _Replication Code_](https://github.com/lilymedina/VDW-H-M-T-V)
+
+
+
+### (Class) Disparities in Policing
+<details><summary>Abstract</summary>
+This paper proposes a game-theoretic model to explain class-based disparities in police violence, emphasizing how unequal access to judicial institutions shapes citizen-police interactions and the spatial distribution of officer behavior. Unlike existing accounts of taste-based or statistical discrimination, this model highlights how structural inequalities in complaint mechanisms lead to a self-reinforcing dynamic: poor citizens, facing higher costs and lower probabilities of success when reporting police misconduct, are less likely to denounce abuse. Anticipating minimal risk of punishment, aggressive officers gravitate toward these areas, while non-aggressive officers prefer wealthier neighborhoods where complaints are more credible. The model yields clear comparative statics and multiple equilibria, showing how institutional design and officer assignment policies can either exacerbate or mitigate these disparities.
+</details>
+
+---
+
+### Marching for Change: Quantifying the Effects of Women's Rights Protests on Legislation and Femicide in Latin America  
+_with Johanna Reyes_  
+<details><summary>Abstract</summary>
+Do protests against violence toward women help reduce it, or do they exacerbate it? Over the past 20 years, mass demonstrations with feminist causes have dramatically increased across the region. These movements have advocated for critical legislative changes, including the legalization of abortion and the recognition of femicide as a distinct criminal offense. But how effective are these protests? We analyze their impact both on legislation and on (actual) violence against women. Using an instrumental variable, we provide the first cross-country evaluation of the effects of protest agenda-seeding on femicide and whether these protests directly influence legislation criminalizing violence against women.
+</details>
+
+---
+
