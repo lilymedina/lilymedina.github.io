@@ -16,9 +16,7 @@ Methodologically, my work combines quantitative and qualitative approaches to st
 My work also extends beyond armed groups. In two ongoing collaborations, I examine the effects of feminist protest on violence against women, and I participate in a project that studies youth political participation in smaller cities. This project investigates how young people’s political engagement is shaped by violence and insecurity, an area that has received little attention.
 
 
-Alongside this substantive research, I contribute to political methodology through the development of the [CausalQueries](https://github.com/macartan/CausalQueries) R package. This software enables researchers to specify and update causal models with Bayesian inference in order to answer counterfactual questions within a potential outcomes framework. The package is particularly useful in contexts where causal identification through standard research designs is difficult or impossible. Our paper, *Making, Updating, and Querying Causal Models with CausalQueries* (with Till Tietz, Georgiy Syunyaev, and Macartan Humphreys), was recently conditionally accepted for publication in the *Journal of Statistical Software*.
-
-
+Alongside this substantive research, I contribute to political methodology through the development of the [CausalQueries](https://github.com/macartan/CausalQueries) R package. This software enables researchers to specify and update causal models with Bayesian inference in order to answer counterfactual questions within a potential outcomes framework. The package is particularly useful in contexts where causal identification through standard research designs is difficult or impossible. To document and extend this tool, I co-authored the paper *Making, Updating, and Querying Causal Models with CausalQueries* (with Till Tietz, Georgiy Syunyaev, and Macartan Humphreys), which was recently conditionally accepted at the *Journal of Statistical Software*.
 
 
 
