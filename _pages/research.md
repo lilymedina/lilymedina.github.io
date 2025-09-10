@@ -17,11 +17,11 @@ In my dissertation, I examine an understudied feature of civil wars: legal milit
 ## Peer-Reviewed Publications
 
 - *Making, Updating, and Querying Causal Models with* `CausalQueries`  
-  Till Tietz, Georgiy Syunyaev, Macartan Humphreys, and Lily Medina  
+  with Till Tietz, Georgiy Syunyaev, and Macartan Humphreys
   Conditionally accepted, *Journal of Statistical Software* (2025)  
 
 - *Citizen Attitudes Toward Traditional and State Authorities: Substitutes or Complements?*  
-  Peter van der Windt, Macartan Humphreys, Lily Medina, Jeffrey F. Timmons, and Maarten Voors  
+  with Peter van der Windt, Macartan Humphreys, Jeffrey F. Timmons, and Maarten Voors  
   *Comparative Political Studies* (2019) — [Article](https://doi.org/10.1177/0010414018806529) | [Replication](https://github.com/lilymedina/VDW-H-M-T-V)
 
 ---
