@@ -17,7 +17,7 @@ In my dissertation, I examine an understudied feature of civil wars: legal milit
 ## Peer-Reviewed Publications
 
 - *Making, Updating, and Querying Causal Models with* `CausalQueries`  
-  with Till Tietz, Georgiy Syunyaev, and Macartan Humphreys
+  with Till Tietz, Georgiy Syunyaev, and Macartan Humphreys <br>
   Conditionally accepted, *Journal of Statistical Software* (2025)  
 
 - *Citizen Attitudes Toward Traditional and State Authorities: Substitutes or Complements?*  
