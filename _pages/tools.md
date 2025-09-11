@@ -12,8 +12,8 @@ R Packages
 ======
 
 
-* [CausalQueries](https://integrated-inferences.github.io/CausalQueries/index.html) is a package that lets you declare binary causal models, update beliefs about causal types given data and calculate arbitrary estimands.   
-* [DesignLibrary](https://declaredesign.org/r/designlibrary/) is a collection of canonical designs that can be easily customized and intorregated. (co-developer)
+* [CausalQueries](https://integrated-inferences.github.io/CausalQueries/index.html) is a package that lets you declare binary causal models, update beliefs about causal types given data and calculate arbitrary estimands.   (co-author) 
+* [DesignLibrary](https://declaredesign.org/r/designlibrary/) is a collection of canonical designs that can be easily customized and intorregated. (co-author)
 * [estimatr](https://declaredesign.org/r/estimatr/) a statistical package for computing design-based estimators.  (contributor) 
 
 Package Documentation 
