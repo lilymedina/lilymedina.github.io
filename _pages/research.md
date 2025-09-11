@@ -9,7 +9,7 @@ title: "&nbsp;"
 
 ### Legal Militias: The Case of Convivir Groups in Colombia 
 
-In my dissertation, I examine an understudied feature of civil wars: legal militias. These are armed groups that receive formal recognition from the state but remain separate from regular forces like the police or military. I argue that legalization encourages militia formation by lowering the costs of mobilization. This is most likely to occur in areas that combine three conditions: a high insurgent threat, which creates demand for protection; high land inequality, which gives local elites strong incentives to mobilize; and intermediate state capacity, where the state is strong enough to offer recognition but too weak to provide direct security. Once formed, legal militias reshape conflict dynamics by providing local intelligence and making the armed landscape more legible to the state and allies.
+In my dissertation, I examine an understudied feature of civil wars: legal militias. These are armed groups that receive formal recognition from the state but remain separate from regular forces like the police or military. I argue that legalization encourages militia formation by lowering the costs of mobilization. This dynamic is most likely to occur in areas that combine two conditions: a high insurgent threat, which creates demand for protection, and high land inequality, which gives local elites strong incentives to mobilize. Once formed, legal militias influence  civilian–armed group collaboration and civilian victimization by providing local intelligence and making the armed landscape more legible to the state and its allies.
 
 
 ---
