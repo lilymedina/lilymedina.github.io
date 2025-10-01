@@ -18,7 +18,7 @@ In my dissertation, I examine an understudied feature of civil wars: legal milit
 
 - *Making, Updating, and Querying Causal Models with* `CausalQueries`  
   with Till Tietz, Georgiy Syunyaev, and Macartan Humphreys <br>
-  Conditionally accepted, *Journal of Statistical Software* (2025) — <a href="lilymedina.github.io/files/jss5712.pdf" target="_blank">Preprint</a>
+  Conditionally accepted, *Journal of Statistical Software* (2025) — <a href="/files/jss5712.pdf" target="_blank">Preprint</a>
 
 - *Citizen Attitudes Toward Traditional and State Authorities: Substitutes or Complements?*  
   with Peter van der Windt, Macartan Humphreys, Jeffrey F. Timmons, and Maarten Voors  
