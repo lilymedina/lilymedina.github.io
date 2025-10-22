@@ -7,6 +7,17 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CFF1F2VNZ5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CFF1F2VNZ5');
+</script>
+
+
 I’m a Ph.D. candidate in Political Science (Comparative Politics) at the University of California, Berkeley, and a Research Associate at the  [Center of the Politics of Development](https://cpd.berkeley.edu/).  Two interconnected themes run through my work: how civilians experience violence, and how they navigate loyalties between state and non-state actors in their search for protection.
 
 My dissertation focuses on an understudied phenomenon in the civil wars literature: legal militias. I ask why civilians form legal militias during civil wars and how legalization shapes the interaction between civilians and armed groups. In particular, I examine how legal militias shape civilian collaboration and violence against civilians.
