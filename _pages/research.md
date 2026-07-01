@@ -5,7 +5,7 @@ author_profile: true
 title: "&nbsp;"
 ---
 
-## Dissertation:
+## Book-project:
 
 ### Legal Militias: The Case of Convivir Groups in Colombia 
 
@@ -35,9 +35,6 @@ In my dissertation, I examine an understudied feature of civil wars: legal milit
 - *Marching for Change: Quantifying the Effects of Women's Rights Protests on Legislation and Femicide in Mexico*  
   with Johanna Reyes  
   Early draft available upon request  
-
-- *NextGenC: Survey on Youth Political Participation in Intermediate Cities in Colombia*  
-  In the field
   
 
 
