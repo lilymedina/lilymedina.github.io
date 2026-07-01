@@ -18,10 +18,7 @@ redirect_from:
 </script>
 
 
-I am a Postdoctoral Fellow at the [Identity and Conflict Lab](https://campuspress.yale.edu/yaleicl/) at Yale University and a Research Associate at the  [Center of the Politics of Development](https://cpd.berkeley.edu/). I received my PhD in political science from the University of California, Berkeley.
-
-
-Two interconnected themes run through my work: how civilians experience violence, and how they navigate loyalties between state and non-state actors in their search for protection.
+I am a Postdoctoral Fellow at the [Identity and Conflict Lab](https://campuspress.yale.edu/yaleicl/) at Yale University and a Research Associate at the  [Center of the Politics of Development](https://cpd.berkeley.edu/). I received my PhD in political science from the University of California, Berkeley. Two interconnected themes run through my work: how civilians experience violence, and how they navigate loyalties between state and non-state actors in their search for protection.
 
 My dissertation and book project focus on an understudied phenomenon in the civil war literature: legal militias. I examine the conditions under which civilians form legal militias during civil wars and how legalization shapes interactions between civilians and armed groups. In particular, I investigate how legal militias affect civilian collaboration and violence against civilians.
 
